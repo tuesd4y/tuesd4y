@@ -1,3 +1,5 @@
+<img src="https://github.com/tuesd4y/tuesd4y/blob/main/img/street.jpg?raw=true" alt="Hero image">
+
 <h2 align='center'>Servus, nice to meet you! 👋</h2>
 
 <p align='center'>
