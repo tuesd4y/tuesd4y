@@ -44,9 +44,9 @@ I started getting very much into coding writing Java Backend and Android Applica
 
 ### ✍️ What I Write About ✍️
 - On [tuesd4y.com](https://tuesd4y.com) I write about tech stuff, be it frontend, backend, GIS stuff or whatever else I'm currently working on
-- On [krissi-cooks.now.sh](https://krissi-cooks.now.sh) I collect the recipes I love the most. 
+- On [krissicooks.com](https://krissicooks.com) I collect the recipes I love the most. 
 - I also (far too seldomly) take photos of what I cook at [instagram](https://www.instagram.com/krissi.cooks/)
-- I [tweet](https://twitter.com/chrisstelz) about GIS, tech and learning languages
+- I sometimes [tweet](https://twitter.com/chrisstelz) about GIS, tech and learning languages
 
 ---
 
@@ -56,17 +56,3 @@ I started getting very much into coding writing Java Backend and Android Applica
 - I previously was on Runtastic's Android team working on the Daily Habits application (RIP)
 - I first learned coding for C#, Java and Android at HTL Leonding
 - I was a professional climber until 2015 and participated in two youth world championships in Imst and Singapore 
-<!--
-**tuesd4y/tuesd4y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
